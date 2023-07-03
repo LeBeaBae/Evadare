@@ -80,10 +80,6 @@ var app = new function() {
         name: "20_infectat",
         color: "727272",
         uniqsnd: !0
-    }, {
-        name: "21_test",
-        color: "727272",
-        uniqsnd: !0
     }], this.bonusarray = [{
         name: "Nightmare",
         src: "c3-b1-nightmare-hb.mp4",
