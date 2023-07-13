@@ -27,7 +27,7 @@ var app = new function() {
     }, {
         name: "7_aughjaiuruskk",
         color: "727272",
-        uniqsnd: !0
+        uniqsnd: !1
     }, {
         name: "8_",
         color: "727272",
