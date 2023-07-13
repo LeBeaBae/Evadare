@@ -19,7 +19,7 @@ var app = new function() {
     }, {
         name: "5_boomgueh",
         color: "727272",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "6_mooooqumesa",
         color: "727272",
